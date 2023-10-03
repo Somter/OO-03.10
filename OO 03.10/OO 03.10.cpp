@@ -125,7 +125,7 @@ public:
     {
         return school;
     }
-
+     
     void SetSchool(string sch)
     {
         school = sch;
